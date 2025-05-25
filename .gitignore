@@ -1,3 +1,4 @@
 ai-venv
 *.csv
 venv
+exported_data
